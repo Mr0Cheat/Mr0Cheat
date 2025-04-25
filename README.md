@@ -7,7 +7,6 @@
 ## 🎓 Academic Background
 - 🎓 Bachelor of Science in Physics — **Shahid Beheshti University**.
 - 🎓 Master of Science in Particle Physics and Field Theory — **Shahid Beheshti University**, under the supervision of **Prof. Abdus Salam**.
-- 🤝 Currently collaborating with **Dr. Aghapour** on research related to the **Gravitational Spin Hall Effect**.
 
 ## 🎯 Hobbies and Interests
 - 🧩 Passionate about **escape rooms** and **puzzle-solving** — I love challenges that spark excitement!
