@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-I'm **Alireza**, a passionate physics student fascinated by the mysteries of the universe — from dark matter to gravitational waves.
-
 ## 🚀 About Me
 - 🔭 Currently exploring the **Gravitational Spin Hall Effect**, focusing on how **spacetime curvature** interacts with the **spin of waves and particles**.
 - 🌌 Aiming to bridge **dark matter phenomenology** with **gravitational waves** as potential messengers from the **dark sector** of the universe.
